@@ -1,5 +1,2 @@
- in range(97, 123):
-n - import & modules
+## 0x02. Python - import & modules
 
-    if i != 113 and i != 101:
-        print("{}".format(chr(i)), end="")v
